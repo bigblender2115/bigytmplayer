@@ -46,5 +46,5 @@ title
 count
 
 display string:
-<title> (<count> songs)
+title (<count> songs)
 ```
